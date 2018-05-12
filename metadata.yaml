@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42956
     wikipedia: http://en.wikipedia.org/wiki/Gilbert_Abbott_%C3%A0_Beckett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37657#The-Comic-History-of-Rome
 gutenberg_issued: '2011-10-07'
 gutenberg_type: Text
 identifiers:
