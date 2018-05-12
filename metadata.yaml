@@ -1,0 +1,42 @@
+_repo: The-Comic-History-of-Rome_37657
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: À Beckett, Gilbert Abbott
+    aliases:
+    - Beckett, Gilbert Abbott À
+    - A Beckett, Gilbert Abbott
+    - A'Beckett, Gilbert
+    - À Beckett, G. A. (Gilbert Abbott)
+    birthdate: 1811
+    deathdate: 1856
+    gutenberg_agent_id: '42956'
+    url: http://www.gutenberg.org/2009/agents/42956
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Abbott_%C3%A0_Beckett
+description: ''
+gutenberg_issued: '2011-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Wit and humor, Pictorial'
+- !lcsh 'Rome -- History -- Humor'
+title: The Comic History of Rome
+url: http://www.gutenberg.org/ebooks/37657
